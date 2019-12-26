@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    background-color: #0ab187;
+}
+#imagenexo {
+    width: 100%;
+}
+h2 {
+    background-color: #308ecc;
+    margin: 25px;
+}
+h3 {
+    background-color: #d10e59
+}
+h4 {
+    width: 100;
+    background-color: #ad0000;
+    color: #ffffff;
+    font-size: large;
+}
+h5 {
+    width: 100;
+    background-color: #ffe600;
+    color: #ffffff;
+    font-size: larger;
+}
+h6 {
+    width: 100;
+    background-color: #ad0000;
+    color: #ffffff;
+    font-size: large;
+}
+div {
+    background-color: #3edf61;
+}
+.carousel-item > img ¨{
+    height: 800px;
+}
