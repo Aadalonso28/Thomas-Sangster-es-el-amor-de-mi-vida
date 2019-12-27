@@ -36,9 +36,9 @@ div {
 }
 .carousel-item > img {
     height: 600px;
-    margin: 250px;
- 
+    text-align: center;
    border-right: 100px;
    image-resolution: 1080p;
 }
-.centro {text-align: center;}
+.centro {text-align: center;
+     {text-align: center;}
